@@ -1,6 +1,8 @@
 package App::LibreOfficeUtils;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use 5.010001;
@@ -40,5 +42,9 @@ This distributions provides the following command-line utilities:
 
 
 =head1 SEE ALSO
+
+L<App::MSOfficeUtils>
+
+L<App::OfficeUtils>
 
 =cut
